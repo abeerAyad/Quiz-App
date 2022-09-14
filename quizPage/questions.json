@@ -1,0 +1,90 @@
+[
+    {
+      "title": "What does the abbreviation HTML stand for?",
+      "answer_1": "HyperText Markup Language.",
+      "answer_2": "HighText Markup Language.",
+      "answer_3": "HyperText Markdown Language.",
+      "answer_4": "None of the above.",
+      "right_answer": "HyperText Markup Language."
+    },
+    {
+      "title": "How many sizes of headers are available in HTML by default?",
+      "answer_1": "5",
+      "answer_2": "1",
+      "answer_3": "6",
+      "answer_4": "2",
+      "right_answer": "6"
+    },
+    {
+      "title": "What are the types of lists available in HTML?",
+      "answer_1": "None of the above.",
+      "answer_2": "Bulleted, Numbered Lists.",
+      "answer_3": "Named, Unnamed Lists.",
+      "answer_4": "Ordered, Unordered Lists.",
+      "right_answer": "Ordered, Unordered Lists."
+    },
+    {
+      "title": "HTML files are saved by default with the extension?",
+      "answer_1": ".h",
+      "answer_2": ".html",
+      "answer_3": ".ht",
+      "answer_4": "All Solutions Is Wrong",
+      "right_answer": ".html"
+    },
+    {
+      "title": "We enclose HTML tags within?",
+      "answer_1": "{}",
+      "answer_2": "!!",
+      "answer_3": "<>",
+      "answer_4": "None of the above",
+      "right_answer": "<>"
+    },
+    {
+      "title": "How is black color represented in terms of RGB values?",
+      "answer_1": "RGB(0, 0, 0)",
+      "answer_2": "RGB(100, 100, 100)",
+      "answer_3": "RGB(100, 100, 0)",
+      "answer_4": "RGB(100, 0, 0)",
+      "right_answer": "RGB(0, 0, 0)"
+    },
+    {
+      "title": "The CSS inside HTML elements used alongside style attribute is called?",
+      "answer_1": "Internal CSS",
+      "answer_2": "External CSS",
+      "answer_3": "None of the above",
+      "answer_4": "Inline CSS",
+      "right_answer": "Inline CSS"
+    },
+    {
+      "title": "What is the correct syntax to write an HTML comment?",
+      
+
+
+
+      "answer_1": "// Comment",
+      "answer_2": "#Comment",
+      "answer_3": "/* Comment */",
+      "answer_4": "<!-- Comment -- >",
+      "right_answer": "<!-- Comment -- >"
+    },
+    {
+      "title": "Which of the following tags is used to add a row to a table in HTML?",
+      "answer_1": "<td>",
+      "answer_2": "<th>",
+      "answer_3": "<tr>",
+      "answer_4": "None of the above",
+      "right_answer": "<tr>"
+    },
+    {
+      
+
+
+
+      "title": "If a background image is smaller than the screen on which it is being displayed, what will occur on the webpage?",
+      "answer_1": "The blank space will be shown in black.",
+      "answer_2": "The image will be stretched",
+      "answer_3": "The image will be repeated",
+      "answer_4": "NThe image won't be displayed",
+      "right_answer": "The image will be repeated"
+    }
+  ]
