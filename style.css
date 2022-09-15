@@ -70,7 +70,7 @@ header::before {
 }
 
 .select-category a {
-    display: inline-block;
+    display: block;
     background: none;
     border: none;
     border: 2px solid rgb(57, 57, 127);
@@ -83,6 +83,7 @@ header::before {
     margin-right: 20px;
     border-radius: 3px;
     text-decoration: none;
+    margin-bottom: 30px;
 }
 
 body {

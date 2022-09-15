@@ -1,0 +1,42 @@
+[
+    {
+        "title":"How can we change the background color of an element?",
+        "answer_1":"background-color",
+        "answer_2":"color",
+        "answer_3":"Both A and B",
+        "answer_4":"None of the above",
+        "right_answer":"background-color"
+    },
+     {
+        "title":"In how many ways can CSS be written in?",
+        "answer_1":"1",
+        "answer_2":"3",
+        "answer_3":"2",
+        "answer_4":"4",
+        "right_answer":"3"
+    },
+    {
+        "title":"How can we select an element with a specific ID in CSS?",
+        "answer_1":".",
+        "answer_2":"#",
+        "answer_3":"!",
+        "answer_4":"^",
+        "right_answer":"#"
+    },
+    {
+        "title":"In the below code snippet, in what order will the margins be added?\n p { margin: 23px 20px 2px 10px;}",
+        "answer_1":"Top Bottom Left Right",
+        "answer_2":"Top Right Bottom Left",
+        "answer_3":"Top  Left Bottom Right",
+        "answer_4":"Left Right Bottom  Top",
+        "right_answer":"Top Right Bottom Left"
+    },
+    {
+        "title":"Which of the following are valid CSS position property values?",
+        "answer_1":"static",
+        "answer_2":"fixed",
+        "answer_3":"relative",
+        "answer_4":"All of the above",
+        "right_answer":"All of the above"
+    }
+]
