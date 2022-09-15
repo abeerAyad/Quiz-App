@@ -32,7 +32,7 @@ fetch(localStorage.getItem('categoryValue'))
    showData(data[curentIndex],questionsCount);
 
 // Start Countdown
-    countDown(90,questionsCount)
+    countDown(60,questionsCount)
 
 
     submitAnswer.addEventListener('click',() => {
@@ -54,7 +54,7 @@ fetch(localStorage.getItem('categoryValue'))
 
 
         clearInterval(countdownInterval)
-        countDown(90,questionsCount);
+        countDown(60,questionsCount);
 
 
         showResult(questionsCount);
@@ -196,7 +196,7 @@ function countDown(duration,count) {
 
         if(--duration < 0) {
             clearInterval(countdownInterval);
-            // submitAnswer.click()
+            submitAnswer.click()
         }
     },1000)
 
